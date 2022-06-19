@@ -1,2 +1,4 @@
 # rsschool-cv
-This is my 1st repository in main branch
+This is my 1st repository
+
+https://bekhruz-pulatov.github.io/rsschool-cv/

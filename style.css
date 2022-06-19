@@ -1,0 +1,16 @@
+#global
+{
+background-color: rgb(125, 148, 125);
+}
+#local
+{
+    background-color: rgb(67, 70, 73);
+    
+    }
+#img{
+text-align: center;
+    }
+#bold
+{
+color: rgba(62, 231, 243, 0.877);
+}
